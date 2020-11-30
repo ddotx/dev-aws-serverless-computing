@@ -1,0 +1,28 @@
+<mxfile host="" modified="2020-07-07T05:26:06.342Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="D1vg39_VPVt27uWh6Bqd" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="915" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Remote&lt;br&gt;Procedure&lt;br&gt;Call&lt;br&gt;(RPC)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Enterprise&lt;br&gt;Application&lt;br&gt;Integration&lt;br&gt;(EAI)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Service&lt;br&gt;Orientated&lt;br&gt;Architecture&lt;br&gt;(SOA)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Enterprise&lt;br&gt;Service&lt;br&gt;Bus&lt;br&gt;(ESB)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Microservices" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Functions as&lt;br&gt;a Service&lt;br&gt;(FaaS)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
